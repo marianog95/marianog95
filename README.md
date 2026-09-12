@@ -1,8 +1,6 @@
 # ¡Hola! Soy Mariano 👋
 
-### Programación, Auditoría & Gestión Administrativa 
-
----
+### 💻 Programación, Auditoría & Gestión Administrativa 
 
 Soy Analista de Sistemas y estudiante de la Licenciatura en Administración y Gestión de la
 Información de la Universidad Nacional de Rafaela, Argentina. Cuento con 5 años de experiencia en
@@ -17,9 +15,9 @@ administración y la tecnología.
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUxZDVoM2V3Y2xweGJydDc2MHcwcDF4M2x3a2lvbHNvcDduOGJsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" alt="Developer" width="700" />
 </p>
 
----
+##
 
-## 🛠️ Habilidades Técnicas
+### 🛠️ Habilidades Técnicas
 
 **Gestión de Procesos & Negocios**
 - Relevamiento de Requerimientos & Análisis Funcional
@@ -42,9 +40,9 @@ administración y la tecnología.
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
----
+##
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/marianog95">
@@ -52,7 +50,7 @@ administración y la tecnología.
   </a>
 </p>
 
----
+##
 
 ### 📬 Contacto
 
